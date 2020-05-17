@@ -1,1 +1,1 @@
-"SpringBoot002" 
+"SpringBoot002Application" 
